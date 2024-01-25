@@ -8,7 +8,7 @@ export default function App() {
       <Weather />
       <footer>
         This project is an
-        <a href="http://https://github.com/Naa-A/weather-app"></a>open sourced
+        <a href="http://https://github.com/Naa-A/weather-app"> open sourced </a> project
       </footer>
     </div>
   );
